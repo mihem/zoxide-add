@@ -15,7 +15,7 @@ ya pkg add mihem/zoxide-add
 Or manually clone this repo into your Yazi plugins directory:
 
 ```sh
-git clone https://github.com/mischko/zoxide-add.yazi \
+git clone https://github.com/mihem/zoxide-add.git \
   ~/.config/yazi/plugins/zoxide-add.yazi
 ```
 
