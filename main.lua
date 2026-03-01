@@ -1,0 +1,1 @@
+../../../../.homesick/repos/dotfiles_ubuntu/home/.config/yazi/plugins/zoxide-add.yazi/main.lua
